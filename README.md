@@ -1,7 +1,7 @@
 # 📷 Picture This, Babe  
 A retro-vintage film photobooth experience — right in your browser.
 
-[Live Demo]
+[Live Demo](https://rashmimurali.github.io/Picture-This-Babe/)
 
 ## About  
 Picture This, Babe is a browser-based photobooth app built entirely with vanilla HTML, CSS, and JavaScript — no frameworks, no dependencies, no backend. It captures four shots in sequence, applies real-time film filters, and compiles everything into a downloadable polaroid-style photo strip stamped with your branding.
